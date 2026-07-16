@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Sofis</h1>
 <h3 align="center">Data Analyst with a UX/UI Design Background</h3>
 <p align="center">
   I turn raw data into clear stories — and clear stories into interfaces people actually enjoy using.
