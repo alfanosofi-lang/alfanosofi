@@ -46,22 +46,12 @@ Design
 
 📌 Featured Projects
 
-ProjectDescriptionStackProject NameShort description — e.g. "Redesigned a sales dashboard to cut time-to-insight by 40%"SQL, Tableau, FigmaProject NameShort description — e.g. "Built an interactive UX research dashboard for A/B test results"Python, Plotly, FigmaProject NameShort descriptionStack
 
 
-📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" alt="GitHub Streak" />
-</p>
 
 🌐 Connect With Me
 
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:alfanosofi@gmail.com">
